@@ -1,4 +1,4 @@
-# TBM-JMM: Joint Mixed-Effects Model implementation of TBM brain morphometry
+# TBM-JMM: Joint Mixed-Effects Model implementation for TBM brain morphometry
 
 This repo implements a proof-of-concept joint model to investigate the longitudinal trajectory of TBM brain subcortical volume, contrasted under treatment.
 
